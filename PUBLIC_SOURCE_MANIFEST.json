@@ -1,0 +1,18 @@
+{
+  "repository": "timeweb_synergy_llm_memory_lab",
+  "public_source_files": 11,
+  "excluded_offline_only": [],
+  "sha256": {
+    ".gitignore": "d9d3d414f6f84c0ef3d8b09d59f49f6c2c173fab18219c9fa262db2383820cf5",
+    "README.md": "4e5c52ebbd470a7794bdaf99dd8518a86165a779b22f484f020c46344638fa94",
+    "evidence/v6/HIAI_v6/src/corpora.py": "1ad0b5e5f1fd23f6d107b5754212fbe56cb94f289155704349efb3c3f00a34c3",
+    "evidence/v6/HIAI_v6/src/hiai_bench.py": "0e43f0ca35ee5d037de78caa3f9590df53257a348b11896b4668b3b9ced0d846",
+    "prototypes/__init__.py": "7ea3e33621d03c4e3e2271d2e93e55721d45d99472f589fa698ec105fcddfdb6",
+    "prototypes/__main__.py": "c63aff76bcd5a382a42c8d13eb3c2f5fb2c564b451bdfd20819631c3725055d6",
+    "prototypes/runner.py": "3e1a59a8d2260be864749b4aa583961569fdcbee7b161f1025ae3725a841306f",
+    "prototypes/scenarios/__init__.py": "60d32f11ef7875e4b24eedf3a631281803e0295a8206e39819cf2cae243632f8",
+    "prototypes/scenarios/article01.py": "94c955c460cda8ad167e083de1d79e16451fd07e52925f9d9e0f8ba2780e356d",
+    "prototypes/tests/test_articles_01_05.py": "adebfab93b718e0fa121f055f7c9095c6882dad7144f82aa96433726d5089201",
+    "requirements.txt": "12b84930f4edd3f3d1fde62f07d61110a07a88bdfb5acc5338f7fda8a61b8247"
+  }
+}
